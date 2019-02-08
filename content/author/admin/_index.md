@@ -75,4 +75,4 @@ interests = [
 
 +++
 
-Jun Tan a power system research engineer at Global Energy Interconnection Research Institute North America (GEIRI North America). My research interests include power system planning, voltage stability, energy storage, PMU data analytics and optimization. 
+Jun Tan a power system research engineer at Global Energy Interconnection Research Institute North America (GEIRI North America).His research interest include Power system modeling, simulation, analysis and optimization; Intelligent computing and game-theoretic analysis; Power distribution system and microgrids; Renewable energy integration; Smart grid, Power grid operation and planning in competitive electricity markets.
