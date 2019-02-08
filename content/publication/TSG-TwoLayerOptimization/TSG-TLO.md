@@ -1,10 +1,10 @@
 +++
-title = "Co-Optimization Scheme for Distributed Energy Resource Planning in Community Microgrids"
+title = "Integration of Plug-in Hybrid Electric Vehicles into Residential Distribution Grid Based on Two-Layer Intelligent Optimization"
 date = 2017-10-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Chen Yuan, Mahesh Illindala, Amrit Khalsa"]
+authors = ["Jun Tan and Lingfeng Wang"]
 
 # Publication type.
 # Legend:
@@ -18,12 +18,12 @@ authors = ["Chen Yuan, Mahesh Illindala, Amrit Khalsa"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE Transactions on Sustainable Energy"
-#publication_short = "In *IEEE Trans. Sustainable Enery*"
+publication = "IEEE Transactions on Smart Grid"
+#publication_short = "In *IEEE Trans. Smart Grid*"
 
 # Abstract and optional shortened version.
-abstract = "Microgrids with distributed energy resources are being favored in various communities to lower the dependence on utility-supplied energy and cut the CO2 emissions from coal-based power plants. This paper presents a co-optimization strategy for distributed energy resource planning to minimize total annualized cost at the maximal fuel savings. Furthermore, the proposed scheme aids the community microgrids in satisfying the requirements of U.S. Department of Energy (DOE) and state renewable energy mandates. The method of Lagrange multipliers is employed to maximize fuel savings by satisfying Karush-Kuhn-Tucker conditions. With the Fourier transform and particle swarm optimization, the right mix of distributed energy resources is determined to decrease the annualized cost. A case study to test the proposed scheme for a community microgrid is presented. To validate its effectiveness, an economic justification of the solution and its comparison with HOMER Pro are also illustrated."
-abstract_short = "This paper presents a co-optimization strategy for distributed energy resource planning to minimize total annualized cost at the maximal fuel savings."
+abstract = "This paper presents a methodology for modeling the load demand of plug-in hybrid electric vehicles (PHEVs). Due to the stochastic nature of vehicle arrival time, departure time and daily mileage, probabilistic methods are chosen to model the driving pattern. However, these three elements of driving pattern are correlated with each other, which makes the probability density functions (PDFs) based probabilistic methods inaccurate. Here a fuzzy logic based stochastic model is built to study the relationship between the three elements of driving pattern. Moreover, a load profile modeling framework (LPMF) for PHEVs is proposed to synthesize both the characteristics of driving pattern and vehicle parameters into a load profile prediction system. Based on this stochastic model of PHEV, a two-layer evolution strategy particle swarm optimization (ESPSO) algorithm is proposed to integrate PHEVs into a residential distribution grid. A novel business model is developed for PHEVs to provide ancillary service and participate in peak load shaving. A virtual time-of-use rate is used to reflect the load deviation of the system. Then, an objective function is developed to aggregate the peak load shaving, power quality improvement, charging cost, battery degradation cost and frequency regulation earnings into one cost function. The ESPSO approach can benefit the system in four major aspects by: (1) improving the power quality; (2) reducing the peak load; (3) providing frequency regulation service; and (4) minimizing the total virtual cost. Finally, simulations are carried out based on different control strategies and the results have demonstrated the effectiveness of the proposed algorithm."
+abstract_short = "This paper presents a methodology for modeling the load demand of plug-in hybrid electric vehicles (PHEVs). Based on this stochastic model of PHEV, a two-layer evolution strategy particle swarm optimization (ESPSO) algorithm is proposed to integrate PHEVs into a residential distribution grid."
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -49,7 +49,7 @@ slides = "example-slides"
 tags = []
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/abstract/document/7875469"
+url_pdf = "https://ieeexplore.ieee.org/document/6839090"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
