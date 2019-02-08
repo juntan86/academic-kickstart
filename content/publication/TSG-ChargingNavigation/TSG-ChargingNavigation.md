@@ -22,8 +22,8 @@ publication = "IEEE Transactions on Smart Grid"
 #publication_short = "In *IEEE Trans. Smart Grid*"
 
 # Abstract and optional shortened version.
-abstract = "This paper proposes a framework for enabling the reliability-differentiated services in a residential distribution network with plug-in hybrid electric vehicles (PHEVs). A reliability-differentiated pricing mechanism is developed to satisfy the different reliability requirements of the customers while encouraging the customers to consume electricity in such a way that the reliability of the overall distribution system can be enhanced. A dynamic spinning reserve pricing scheme is developed to stimulate PHEVs to participate in spinning reserve by providing economic benefits when the state of the distribution system becomes risky. Based on the formulated reliability-differentiated system, a hierarchical game approach is proposed in this paper to coordinate the charging process of PHEVs in a decentralized fashion. At the upper level of the hierarchical game, an evolutionary game is formulated to optimize the management of vehicle-to-grid (V2G) capacity of each PHEV. Under the V2G strategies obtained from the evolutionary game, a noncooperative game is formulated at the lower level to coordinate the charging sequences of PHEVs. Various simulation studies are carried out to verify the effectiveness of the proposed hierarchical game approach. The simulation results show that the hierarchical game approach is effective in enhancing both reliability of the distribution system and economic profits of the PHEVs."
-abstract_short = "This paper proposes a framework for enabling the reliability-differentiated services in a residential distribution network with plug-in hybrid electric vehicles (PHEVs)."
+abstract = "This paper proposes an integrated electric vehicle (EV) charging navigation framework, which takes into consideration the impacts from both the power system and transportation system. The proposed framework links the power system with transportation system through the charging navigation of massive EVs. It benefits the two systems by attracting EVs to charge at off-peak hours and saving the time of EV owners with real-time navigation. Based on the formulated framework, a hierarchical game approach is proposed in this paper to effectively navigate EVs to electric vehicle charging stations (EVCSs). At the upper level of the hierarchical game, a non-cooperative game is proposed to model the competition between EVCSs. Based on the pricing strategies obtained from the non-cooperative game, multiple evolutionary games are formulated at the lower level to evolve EVs' strategies in choosing EVCSs. The simulation results show that the proposed integrated charging navigation approach is effective in improving both the reliability of the power distribution grid and economic profits of the charging stations."
+abstract_short = "This paper proposes an integrated electric vehicle (EV) charging navigation framework, which takes into consideration the impacts from both the power system and transportation system."
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -49,7 +49,7 @@ slides = "example-slides"
 tags = []
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/document/7095587"
+url_pdf = "https://ieeexplore.ieee.org/document/7182331"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -64,7 +64,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1109/TSG.2015.2420111"
+doi = "10.1109/TSG.2015.2458863"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
