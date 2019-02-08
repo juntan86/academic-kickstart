@@ -1,6 +1,6 @@
 +++
 title = "Integration of Plug-in Hybrid Electric Vehicles into Residential Distribution Grid Based on Two-Layer Intelligent Optimization"
-date = 2017-10-01T00:00:00
+date = 2014-07-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
