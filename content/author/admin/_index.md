@@ -13,33 +13,33 @@ role = "Power System Research Engineer"
 organizations = [ { name = "GEIRI North America", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include power system analysis and operation, mobile computing and programmable matter."
+bio = "My research interests include Power System Analysis and Operation, Integrated Energy Services and Electric Vehicle Grid Integration."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "jun.tan@geirina.net"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Smart Grid",
+  "Integrated Enenrgy Services",
+  "Electric Vehicle Grid Integration"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Electrical Engineering"
+  institution = "University of Wisconsin-Milwaukee"
+  year = 2017
+
+[[education.courses]]
+  course = "MSc in Electrical Engineering and Automation"
+  institution = "Huazhong University of Science and Technology"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "MSc in Electrical Engineering and Automation"
+  institution = "Huazhong University of Science and Technology"
   year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
